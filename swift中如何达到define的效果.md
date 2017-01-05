@@ -27,9 +27,10 @@ Swift代码和C、Objective-C代码被有条件地，以不同方式编辑。SWI
 ```
 import UIKit
 
+public let MAIN_SCREEN_WIDTH: CGFloat = UIScreen.main.bounds.size.width
+public let MAIN_SCREEN_HEIGHT: CGFloat =  UIScreen.main.bounds.size.height
+
 class AppDefines: NSObject {
 
-    public let MAIN_SCREEN_WIDTH: CGFloat = UIScreen.main.bounds.size.width
-    public let MAIN_SCREEN_HEIGHT: CGFloat =  UIScreen.main.bounds.size.height
 }
 ```
