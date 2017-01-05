@@ -21,6 +21,8 @@ https://github.com/JackSteven/Swift/blob/master/swift%E4%B8%AD%E5%A6%82%E4%BD%95
 
 - 简单使用UIColor生成UIImage
 
+https://github.com/JackSteven/Swift/blob/master/%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8UIColor%E7%94%9F%E6%88%90UIImage.md
+
 
 
 ## Weex开发之路：开发环境搭建
