@@ -1,5 +1,5 @@
 # 1，按钮的创建
-- (1)按钮有下面四种类型：
+(1)按钮有下面四种类型：
 	UIButtonType.system：前面不带图标，默认文字颜色为蓝色，有触摸时的高亮效果
 	UIButtonType.custom：定制按钮，前面不带图标，默认文字颜色为白色，无触摸时的高亮效果
 	UIButtonType.contactAdd：前面带“+”图标按钮，默认文字颜色为蓝色，有触摸时的高亮效果
@@ -17,7 +17,7 @@ button.setTitle("按钮", for:.normal)
 self.view.addSubview(button)
 ```
 
-- (2)对于Custom定制类型按钮，代码可简化为： 
+(2)对于Custom定制类型按钮，代码可简化为： 
 ```
 let button = UIButton(frame:CGRect(x:10, y:150, width:100, height:30))
 ```
@@ -54,14 +54,14 @@ button.backgroundColor = UIColor.black
 ```
 
 # 7，按钮文字图标的设置  
--（1）默认情况下按钮会被渲染成单一颜色 
+（1）默认情况下按钮会被渲染成单一颜色 
 ```
 button.setImage(UIImage(named:"icon1"),forState:.Normal)  //设置图标
 button.adjustsImageWhenHighlighted=false //使触摸模式下按钮也不会变暗（半透明）
 button.adjustsImageWhenDisabled=false //使禁用模式下按钮也不会变暗（半透明）
 ```
 
--（2）也可以设置成保留图标原来的颜色
+（2）也可以设置成保留图标原来的颜色
 ```
 let iconImage = UIImage(named:"icon2")?.withRenderingMode(.alwaysOriginal)
 button.setImage(iconImage, for:.normal)  //设置图标
@@ -100,3 +100,5 @@ touchDragExit：触摸从控件内部拖动到外部时
 touchUpInside：在控件之内触摸并抬起事件
 touchUpOutside：在控件之外触摸抬起事件
 touchCancel：触摸取消事件，即一次触摸因为放上太多手指而被取消，或者电话打断
+
+http://www.hangge.com/blog/cache/detail_529.html
