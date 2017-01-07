@@ -26,7 +26,7 @@ https://github.com/JackSteven/Swift/blob/master/%E7%AE%80%E5%8D%95%E4%BD%BF%E7%9
 
 - Swift - UIButton的用法
 
-https://github.com/JackSteven/Swift/blob/master/Swift%20-%20UIButton%E7%9A%84%E7%94%A8%E6%B3%95.md
+https://github.com/JackSteven/Swift/blob/master/Swift%20-%20UIButton's%20Usage.md
 
 
 ## Weex开发之路：开发环境搭建
