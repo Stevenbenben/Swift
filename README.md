@@ -19,14 +19,19 @@ https://github.com/JackSteven/Swift/blob/master/Swift%203%E6%96%B0%E7%9A%84%E8%A
 
 https://github.com/JackSteven/Swift/blob/master/swift%E4%B8%AD%E5%A6%82%E4%BD%95%E8%BE%BE%E5%88%B0define%E7%9A%84%E6%95%88%E6%9E%9C.md
 
-- 简单使用UIColor生成UIImage
+- Swift UIColor generate UIImage
 
 https://github.com/JackSteven/Swift/blob/master/%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8UIColor%E7%94%9F%E6%88%90UIImage.md
 
 
-- Swift - UIButton的用法
+- Swift UIButton's usage
 
 https://github.com/JackSteven/Swift/blob/master/Swift%20-%20UIButton's%20Usage.md
+
+
+- Swift method's usage
+
+https://github.com/JackSteven/Swift/blob/master/Swift-method's%20usage.md
 
 
 ## Weex开发之路：开发环境搭建
