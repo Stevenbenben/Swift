@@ -17,7 +17,7 @@ struct Account {
 # 2，类class的类型属性，类型方法使用class关键字 
 
 ```
-lass Account {
+class Account {
     var amount : Double = 0.0               // 账户金额 
     var owner : String = ""                 // 账户名 
   
