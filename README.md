@@ -34,5 +34,11 @@ https://github.com/JackSteven/Swift/blob/master/Swift%20-%20UIButton's%20Usage.m
 https://github.com/JackSteven/Swift/blob/master/Swift-method's%20usage.md
 
 
+- Swift 圆角效果
+
+http://www.jianshu.com/p/f970872fdc22
+
+
+
 ## Weex开发之路：开发环境搭建
 http://www.jianshu.com/p/84472ff651d0
