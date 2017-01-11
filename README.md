@@ -39,6 +39,12 @@ https://github.com/JackSteven/Swift/blob/master/Swift-method's%20usage.md
 http://www.jianshu.com/p/f970872fdc22
 
 
+- SDWebImage 原理及使用
+
+http://www.jianshu.com/p/10b28010a6d2
+
+
+
 
 ## Weex开发之路：开发环境搭建
 http://www.jianshu.com/p/84472ff651d0
