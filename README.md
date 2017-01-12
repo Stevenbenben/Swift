@@ -44,10 +44,13 @@ http://www.jianshu.com/p/f970872fdc22
 http://www.jianshu.com/p/10b28010a6d2
 
 
-- animated-tab-bar 使用
+- Swift animated-tab-bar 使用
 
 https://github.com/JackSteven/Swift/blob/master/animated-tab-bar-setting.md
 
+- Swift as、as!、as? 的区别
+
+https://github.com/JackSteven/Swift/blob/master/Swift-%20as%E3%80%81as!%E3%80%81as%3F%20%E7%9A%84%E5%8C%BA%E5%88%AB.md
 
 
 
