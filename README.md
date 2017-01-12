@@ -44,6 +44,11 @@ http://www.jianshu.com/p/f970872fdc22
 http://www.jianshu.com/p/10b28010a6d2
 
 
+- animated-tab-bar 使用
+
+https://github.com/JackSteven/Swift/blob/master/animated-tab-bar-setting.md
+
+
 
 
 ## Weex开发之路：开发环境搭建
