@@ -57,7 +57,7 @@ self.testBlock = ^(NSString *value, void (^completeBlock)(BOOL isComplete)) {
 ```
 
 
-# 方法的写法与变量的写法区别：
+# 方法与变量写法区别：
 
 completeBlock:(void(^)(BOOL isComplete))completeBlock
 
