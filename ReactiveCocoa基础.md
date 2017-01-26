@@ -72,5 +72,14 @@ ReactiveCocoa结合了几种编程风格：
 如何订阅信号：调用信号RACSignal的subscribeNext就能订阅。
 
 
+参考
+
 http://www.jianshu.com/p/87ef6720a096
+
+
+参考
+
+http://blog.callmewhy.com/2016/05/06/a-simple-ar-app/
+
+
 
