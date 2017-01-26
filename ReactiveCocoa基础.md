@@ -40,6 +40,25 @@ ReactiveCocoa为事件提供了很多处理方法，而且利用RAC处理事件�
 
 用函数式编程实现，写一个加法计算器,并且加法计算器自带判断是否等于某个值.
 
+4.ReactiveCocoa编程思想
+
+ReactiveCocoa结合了几种编程风格：
+
+函数式编程（Functional Programming）
+
+响应式编程（Reactive Programming）
+
+所以，你可能听说过ReactiveCocoa被描述为函数响应式编程（FRP）框架。
+
+以后使用RAC解决问题，就不需要考虑调用顺序，直接考虑结果，把每一次操作都写成一系列嵌套的方法中，使代码高聚合，方便管理。
+
+5.如何导入ReactiveCocoa框架
+
+通常都会使用CocoaPods（用于管理第三方框架的插件）帮助我们导入。
+
+
+
+
 
 http://www.jianshu.com/p/87ef6720a096
 
